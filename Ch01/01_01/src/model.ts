@@ -1,11 +1,11 @@
-let displayName: String = "Jess's standing desk";
+let displayName = "Jess's standing desk";
 let inventoryType = "furniture";
 let trackingNumber = "FD123455";
 let createDate = new Date();
 let originalCost = 425;
 
-function getInventoryItem(trackingNumber): object {
-    return null;
+function getInventoryItem(trackingNumber) {
+
 }
 
 function saveInventoryItem(item) {
